@@ -1,0 +1,14 @@
+{
+	"imagePath": "a.png",
+	"width": 400,
+	"height": 32,
+	"sprites": [{
+		"n": "01.png",
+		"x": 1,
+		"y":2
+	},{
+		"n": "02.png",
+		"x": 5,
+		"y": 10
+	}]
+}
